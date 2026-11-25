@@ -1,0 +1,5 @@
+google-genai==2.12.1
+javalang
+scipy
+pandas
+matplotlib
